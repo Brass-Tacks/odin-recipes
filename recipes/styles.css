@@ -90,3 +90,9 @@ hr {
     border-color: #023c40;
     background-color: #023c40;
 }
+
+.desc {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: -50px;
+}
