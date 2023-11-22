@@ -80,3 +80,13 @@ a:visited {
     padding-top: 10%;
     margin-bottom: -5px;
 }
+
+.subs {
+    text-align: center;
+}
+
+hr {
+    height: 2px;
+    border-color: #023c40;
+    background-color: #023c40;
+}
